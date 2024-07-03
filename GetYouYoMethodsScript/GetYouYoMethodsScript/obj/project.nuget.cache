@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBb8kL0Ob6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bugsbunny\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\bugsbunny\\.nuget\\packages\\microsoft.codeanalysis.common\\4.10.0\\microsoft.codeanalysis.common.4.10.0.nupkg.sha512",
+    "C:\\Users\\bugsbunny\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.10.0\\microsoft.codeanalysis.csharp.4.10.0.nupkg.sha512",
+    "C:\\Users\\bugsbunny\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\bugsbunny\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
