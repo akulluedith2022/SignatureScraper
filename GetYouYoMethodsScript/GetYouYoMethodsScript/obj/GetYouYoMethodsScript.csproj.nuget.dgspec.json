@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj": {}
+    "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj": {
+    "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj",
+        "projectUniqueName": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj",
         "projectName": "GetYouYoMethodsScript",
-        "projectPath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj",
+        "projectPath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj",
         "packagesPath": "C:\\Users\\bugsbunny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\obj\\",
+        "outputPath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bugsbunny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,11 +46,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Build.Locator": {
+              "target": "Package",
+              "version": "[1.7.8, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
             "Microsoft.CodeAnalysis.CSharp": {
               "target": "Package",
               "version": "[4.10.0, )"
             },
             "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.MSBuild": {
               "target": "Package",
               "version": "[4.10.0, )"
             }

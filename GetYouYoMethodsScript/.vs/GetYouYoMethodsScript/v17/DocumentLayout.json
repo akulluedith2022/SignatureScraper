@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\",
+  "WorkspaceRootPath": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5B39527-2018-4899-8FA2-270CD326BBE6}|GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj|c:\\users\\bugsbunny\\source\\repos\\proc#_book\\chapter3_proc#\\getyouyomethodsscript\\getyouyomethodsscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5B39527-2018-4899-8FA2-270CD326BBE6}|GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj|c:\\users\\bugsbunny\\source\\repos\\proc#_book\\signaturescraper\\signaturescraper\\cloned_git\\getyouyomethodsscript\\getyouyomethodsscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B39527-2018-4899-8FA2-270CD326BBE6}|GetYouYoMethodsScript\\GetYouYoMethodsScript.csproj|solutionrelative:getyouyomethodsscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\Program.cs",
               "RelativeDocumentMoniker": "GetYouYoMethodsScript\\Program.cs",
-              "ToolTip": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\Chapter3_ProC#\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\Program.cs",
+              "ToolTip": "C:\\Users\\bugsbunny\\source\\repos\\ProC#_book\\SignatureScraper\\SignatureScraper\\cloned_git\\GetYouYoMethodsScript\\GetYouYoMethodsScript\\Program.cs",
               "RelativeToolTip": "GetYouYoMethodsScript\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAASwBkAAAApAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwCAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T12:55:42.719Z",
               "EditorCaption": ""
